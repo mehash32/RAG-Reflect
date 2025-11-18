@@ -182,7 +182,7 @@ Open:
 
 ```bibtex
 @article{ragreflect_tosem,
-  author  = {Shanto et al.},
+  author  = {Mehedi Hasan Shanto, Muhammad Asaduzzaman, Alioune Ngom},
   title   = {RAG-Reflect: An Agentic Retrieval-Augmented and Self-Reflective Framework for Valid Comment--Edit Prediction},
   journal = {ACM Transactions on Software Engineering and Methodology (Sumbitted)},
   year    = {2025},
