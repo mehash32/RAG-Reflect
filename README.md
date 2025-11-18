@@ -195,14 +195,12 @@ Open:
 # 8. Authors and Affiliations
 **Mehedi Hasan Shanto**  
 University of Windsor  
-shanto1@uwindsor.ca
 
 **Dr. Muhammad Asaduzzaman**  
 University of Windsor  
 
 **Dr. Alioune Ngom**  
 University of Windsor  
-shanto1@uwindsor.ca
 
 # 8. Contact
 
