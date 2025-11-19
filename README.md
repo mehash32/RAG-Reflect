@@ -9,7 +9,7 @@ This repository contains the replication package for **RAG-Reflect**, an agentic
 
 The package is intended for **artifact evaluation (TOSEM)** and supports full reproduction of all quantitative and qualitative results reported in the submitted manuscript.
 
-If you use this package in your work, please cite the associated TOSEM paper (citation to be added once published).
+If you use this package in your work, please cite the associated TOSEM paper.
 
 ---
 
@@ -204,7 +204,7 @@ University of Windsor
 
 # 8. Contact
 
-For questions about this replication package, contact:
+For questions and full access to this replication package, contact:
 
 **Mehedi Hasan Shanto**  
 University of Windsor  
